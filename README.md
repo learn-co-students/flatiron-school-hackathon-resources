@@ -13,7 +13,14 @@ Guides to downloading and installing the relevant software. *These guides were d
  - [Data Science MacOS and Windows Setup Instructions](https://github.com/learn-co-curriculum/dsc-data-science-env)
  
 ## Hackathon Resources
+Links to helpful resources to use during a hackathon, curated but not created by Flatiron School.
 
 ### Software Tools
  - [Ruby on Rails Scaffolding](https://guides.rubyonrails.org/v3.2/getting_started.html#getting-up-and-running-quickly-with-scaffolding) — Make an entire dynamic website (database, models, views, controllers) with a few commands in the terminal
  - [Start Bootstrap](https://startbootstrap.com/) — Free Bootstrap templates to make your website look polished without frontend design skills
+
+### Data Sources
+ - [Data Is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) — A spreadsheet of links to lots of different data sets
+ - [City of Seattle Open Data Portal](https://data.seattle.gov/) — All kinds of city data, from the animal shelter to the library to the courts
+ - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/) — Social network data (Twitter, Reddit, StackOverflow) and other types of network data
+ 
